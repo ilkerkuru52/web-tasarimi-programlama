@@ -1,0 +1,56 @@
+     Web 0.0 - Başlangıç (İnternet Öncesi Dönem)
+
+Web 0.0, internetin ve web teknolojilerinin öncesini ifade eder. 1960’lardan 1980’lerin sonuna kadar uzanan bu dönemde bilgisayarlar genellikle bağımsız çalışır, bilgi paylaşımı çok sınırlıydı. İnternet altyapısı henüz yaygınlaşmamıştı.
+
+Bilgisayarlar genellikle kapalı ortamlarda, askeri ve akademik amaçlarla kullanılıyordu.
+
+Veri paylaşımı genellikle fiziksel medya (disket, manyetik bant) ile yapılıyordu.
+
+Henüz web tarayıcısı ve web siteleri yoktu; internet daha çok "ağ" kavramına odaklanıyordu.
+
+
+     Web 1.0 - Statik Web (1990 - 2004)
+
+İnternetin halk tarafından kullanılmaya başlamasıyla Web 1.0 dönemi başladı. Bu dönemde web sayfaları statikti, yani içerikleri genellikle sabitti ve kullanıcıların siteye müdahalesi sınırlıydı.
+
+Web sayfaları basit HTML dosyalarından oluşuyordu.
+
+Kullanıcılar sadece bilgi alır, içerik üzerinde değişiklik yapamazdı.
+
+Örnek: 1990’ların kişisel web sayfaları, ilk haber siteleri, katalog tarzı web siteleri.
+
+Reklamlar sabit yerlerdeydi, iletişim ise genellikle e-posta ile sağlanıyordu.
+
+Bu dönem, bilgiye "pasif erişim" olarak da tanımlanabilir.
+
+
+     Web 2.0 - Etkileşimli Web (2004 - Günümüz)
+
+Web 2.0 ile internet, sosyal bir platforma dönüştü. Kullanıcılar artık sadece içerik tüketmiyor, aynı zamanda üretip paylaşabiliyor.
+
+Kullanıcıların blog yazması, video yüklemesi, yorum yapması mümkün oldu.
+
+Sosyal medya platformları (Facebook, Twitter, Instagram) ve video paylaşım siteleri (YouTube) Web 2.0’ın simgeleridir.
+
+Dinamik içerik oluşturma teknolojileri (AJAX, JavaScript) sayesinde sayfalar daha hızlı ve interaktif hale geldi.
+
+Örnek: Facebook’ta paylaşım yapmak, Wikipedia’da madde düzenlemek, Instagram’da fotoğraf paylaşmak.
+
+Web 2.0, interneti “katılımcı ortam”a dönüştürdü, kullanıcılar aktif içerik üreticisi oldular.
+
+
+     Web 3.0 - Akıllı ve Dağıtık Web (Yakın Gelecek)
+
+Web 3.0, internetin daha akıllı, kişiselleştirilmiş ve merkeziyetsiz evrimidir. Burada amaç, makinelerin insan dilini daha iyi anlayıp anlamlandırması ve verilerin kullanıcı kontrolünde olmasıdır.
+
+Yapay zekâ ve makine öğrenimi, kullanıcının arama niyetini daha iyi analiz eder.
+
+Blockchain teknolojisi ile veriler merkezi sunucularda değil, dağıtık ağlarda saklanır.
+
+Kripto paralar, NFT’ler ve akıllı sözleşmeler Web 3.0’ın temel bileşenleridir.
+
+Örnek: Ethereum üzerinde çalışan merkeziyetsiz uygulamalar (dApps), kullanıcıların kendi verilerini kontrol ettiği sosyal medya platformları.
+
+Web 3.0, interneti daha güvenli, özgür ve kişisel hale getirmeyi hedefler.
+
+Bu dönemde kullanıcı, hem içerik üreticisi hem de verisinin gerçek sahibi olur.
