@@ -1,0 +1,78 @@
+body {
+  background: #e8f0e8;
+  font-family: Arial, sans-serif;
+}
+
+#nav {
+  list-style: none;
+  padding: 0;
+  margin: 50px auto;
+  background: #333;
+  display: flex;
+  width: fit-content;
+  border-radius: 4px;
+}
+
+#nav li {
+  position: relative;
+}
+
+#nav > li {
+  float: left;
+}
+
+#nav a {
+  display: block;
+  padding: 12px 25px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#nav li:hover > a,
+#nav .current > a {
+  background: #555;
+  border-top: 3px solid orange;
+}
+
+/* Alt menüler */
+#nav ul {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #ccc;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  min-width: 180px;
+}
+
+#nav ul li a {
+  color: #333;
+  font-weight: normal;
+  padding: 10px 15px;
+}
+
+#nav li:hover > ul {
+  display: block;
+}
+
+#nav ul li:hover > a {
+  background: #ddd;
+}
+
+/* Üçüncü seviye (sub-sub) menü */
+#nav ul ul {
+  top: 0;
+  left: 100%;
+  background: #ddd;
+}
+
+#nav ul ul li a {
+  background: #eaeaea;
+}
+
+#nav ul ul li a:hover {
+  background: #ccc;
+}
