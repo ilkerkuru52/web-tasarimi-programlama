@@ -1,0 +1,4 @@
+C:\Users\MONSTER\Desktop\Yeni klasör (4)\KuraBird\KuraBirdInstaller\obj\Debug\net6.0-windows\KuraBirdInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\Yeni klasör (4)\KuraBird\KuraBirdInstaller\obj\Debug\net6.0-windows\KuraBirdInstaller.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\Yeni klasör (4)\KuraBird\KuraBirdInstaller\obj\Debug\net6.0-windows\KuraBirdInstaller.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\Yeni klasör (4)\KuraBird\KuraBirdInstaller\obj\Debug\net6.0-windows\KuraBirdInstaller.csproj.CoreCompileInputs.cache
