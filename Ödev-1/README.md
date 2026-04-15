@@ -49,4 +49,4 @@ Bu üç değer SHA-256 ile birleştirilip şifrelenerek iki yere kaydedilir:
 
 ---
 
-*Geliştirici: KuraBird Studio | 2025*
+*Geliştirici: İlker KURU | 2026*
